@@ -1,6 +1,6 @@
     ✨ Quotes Mini App
 ---
-![Countries DataBase App](https://repository-images.githubusercontent.com/455683553/26083a11-5466-4151-b516-d406d83551ea)
+![Quotes Mini App](https://repository-images.githubusercontent.com/457480050/16820a71-9c3b-4249-8ac2-68a94726c25f)
 #### 🧷 About
 An application that works with the [API](https://api.quotable.io/) and displays information to display
 
